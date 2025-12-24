@@ -1,5 +1,5 @@
 // components/Services.tsx
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { Heart, Brain, Bone, Eye, Baby, Thermometer } from 'lucide-react';
 
