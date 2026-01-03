@@ -1,5 +1,3 @@
-// components/Footer.tsx
-import React from 'react';
 import { Facebook, Twitter, Instagram, Linkedin, Heart } from 'lucide-react';
 
 const Footer = () => {
