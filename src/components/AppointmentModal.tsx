@@ -1,5 +1,6 @@
 // components/AppointmentModal.tsx
-import React, { useState } from 'react';
+import React from 'react';
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, Calendar, Clock, User, Phone } from 'lucide-react';
 
